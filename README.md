@@ -6,4 +6,4 @@ Nele eu botarei em prática conhecimentos já adquiridos com meus estudos ao mes
 
 Trabalharei por meio da análise exploratória de dados (AED), que é uma forma de extrair informações de dados através da observação de tabelas, medidas e visualizações.
 
-Um agradecimento especial ao Francisco Foz por ter proporcionado essa experiência para contribuir com meu aprendizado, assim me tornando um profissional cada vez mais versátil e qualificado. 🚀🚀
+Um agradecimento especial ao Francisco Foz e a Alura por ter proporcionado essa experiência para contribuir com meu aprendizado, assim me tornando um profissional cada vez mais versátil e qualificado. 🚀🚀
