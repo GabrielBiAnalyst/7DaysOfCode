@@ -1,4 +1,4 @@
-# Desafio-7DaysOfCode
+# 7DaysOfCode
 
 Nesse desafio o meu objetivo é explorar os dados de empréstimos dos acervos do sistema de bibliotecas da UFRN.
 
